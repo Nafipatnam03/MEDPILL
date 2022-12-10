@@ -1,5 +1,3 @@
-# MEDPILL
-WAY to the BEST CARE
 # ✨MEDPILL - WAY to the BEST CARE  ✨
 
 This is a web based application developed for health related based website in india
