@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 **Project Link** - https://icy-water-0d06a0a00.2.azurestaticapps.net
 
-**project demo video link** - 
+**project demo video link** - https://youtu.be/W1d86l1GDLo
 
 ## Azure technologies used for Project
 
